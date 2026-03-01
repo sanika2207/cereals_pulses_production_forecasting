@@ -1,5 +1,5 @@
 ## cereals_pulses_production_forecasting
-This project focuses on forecasting cereals and pulses production in Maharashtra using advanced time series forecasting techniques. Accurate forecasting of agricultural production is essential for policymakers, farmers, and agricultural planners to ensure food security, efficient resource allocation, and economic stability.
+This project focuses on forecasting cereals and pulses production in Maharashtra using advanced time series forecasting techniques. Accurate forecasting of agricultural production is essential for policymakers, farmers and agricultural planners to ensure food security, efficient resource allocation and economic stability.
 
 This study applies and compares three forecasting models:
 
